@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Please checkout my personal website at [symbol.codes](https://www.symbol.codes).
+Please checkout my personal website at <https://www.symbol.codes>.
 
-If it is down, a mirror site is at [simple.one](https://www.simple.one).
+If it is down, a mirror site is at <https://www.simple.one>.
 
 <!--
 **Symbol1/Symbol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
